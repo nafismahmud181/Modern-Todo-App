@@ -64,3 +64,8 @@ li button {
 li button:hover {
     background-color: #c82333;
 }
+
+h1{
+    text-align: center;
+    color: #4e4e4e;
+}
